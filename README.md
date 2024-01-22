@@ -5,7 +5,9 @@
 - using GitHub
 - using the libraries we will need throughout this course
 - writing up a report
-- analysing the data we find accurately
+- analyzing the data we find accurately
+
+All 4 analysis are located in project1.ipynb
 
 We analyzed data from baseball records and decided as a team what we wanted to report on.
 We then parsed the given csv files and analyzed the data we found. We interpreted the 
